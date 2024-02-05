@@ -1,0 +1,250 @@
+/* *=========================================================================================
+?   PROJETO ->> Desenvolvimento WEB Front End: Página de Links das Aulas do BootCamp Desenvolvedor Web Full Stack.
+?   OBJETIVO ->> Página para unir visualmente todos os links das aulas que tivemos da Escola Koru, para podermos rever de forma organizada após término do BootCamp.
+?   CRIAÇÃO E DESENVOLVIMENTO ->> Marcia Moreira
+?   DATA DA CRIAÇÃO ->> 30/01/2024 a 04/02/2024.
+?   MEU GITHUB ->> https://github.com/Marcia-Moreira
+?   MEU LINK WAKATIME ->> https://wakatime.com/@Marcia_Moreira
+?   MEU LINKEDIN ->> https://www.linkedin.com/in/marciamoreiramm
+*======================================================================================== 
+*/
+/* ==================================================== */
+/* CORES DO PROJETO */
+cores_projeto {
+    color: rgb(191, 188, 188);
+    color: #f1f1f1;
+    color: black;
+    color: gray;
+    /* background-image: linear-gradient(gray, rgb(191, 188, 188), gray); */
+}
+/* ==================================================== */
+* {
+    color: black;
+}
+body {
+    background-color: rgb(191, 188, 188);
+    /* background-image: linear-gradient(gray, rgb(191, 188, 188), gray); */
+    margin: 20px 40px 30px 40px;
+    border-style: groove;
+    padding: 10px 40px 10px;
+    line-height: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px gray;
+}
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px #f1f1f1;
+}
+h3, h4 {
+    text-align: center;
+}
+h5 {
+    text-align: center;
+    color: gray;
+}
+a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    background-color: #f1f1f1;
+    padding: 20px;
+    border: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+/* ==================================================== */
+.menu_modulos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.modulo {
+    /* flex: 1; */
+    flex-basis: calc(33.33% - 10px); /*divide em 3 colunas?*/
+    /* margin-right: 10px; */
+    margin-bottom: 10px;
+}
+.modulo:last-child {
+    margin-right: 0;
+}
+.modulo a {
+    /* display: flex; */
+    /* justify-content: center; */
+    display: block; /* Permite que os links ocupem todo o espaço do contêiner pai */
+    text-align: center; /* Centraliza o texto dentro do módulo */
+}
+.modulo a:hover {
+    color: gray;
+}
+/* ==================================================== */
+/* 1º da ordem - a:link */
+.aula_gravada a:link {
+    color: black;
+}
+.aula_ao_vivo a:link {
+    color: black;
+}
+/* 2º da ordem - a:visited */
+.aula_gravada a:visited {
+    color: gray;
+}
+.aula_ao_vivo a:visited {
+    color: gray;
+}
+/* 3º da ordem - a:hover */
+.aula_gravada a:hover {
+    background-color: #f1f1f1;
+    /* transition: width 2s, height 4s; */
+    transition-timing-function: ease-in-out;
+}
+.aula_ao_vivo a:hover {
+    background-color: rgb(191, 188, 188);
+    transition-timing-function: ease-in-out;
+}
+/* 4º da ordem - a:active */
+.aula_gravada a:active {
+    color: rgb(191, 188, 188);
+}
+.aula_ao_vivo a:active {
+    color: rgb(191, 188, 188);
+}
+/* ==================================================== */
+.aula_gravada {
+    background-color: #f1f1f1;
+    color: black;
+    border: 20px;
+    border-radius: 10px;
+    /* padding: 20px; */
+    padding-inline: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.aula_gravada div a {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.aula_gravada a {
+    background-color: rgb(191, 188, 188);
+    text-align: center;
+    color: black;
+    border: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.aula_ao_vivo {
+    background-color: #f1f1f1;
+    color: black;
+    border: 20px;
+    border-radius: 5px;
+    /* padding: 20px; */
+    padding-inline: 30px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    box-shadow: 5px 5px 5px 5px gray;
+    margin-top: 20px;
+}
+.aula_ao_vivo div a {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    /* padding: 30px; */
+}
+.aula_ao_vivo a {
+    background-color: #f1f1f1;
+    text-align: center;
+    color: black;
+    border: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+/* ==================================================== */
+.links_acesso {
+    display: flex;
+    justify-content: space-between; /* Alinha os itens igualmente espaçados */
+}
+.link {
+    flex: 1; /* Faz com que cada link ocupe a mesma quantidade de espaço */
+    margin-right: 20px; /* Adiciona um espaçamento entre os links */
+}
+.link:last-child {
+    margin-right: 0; /* Remove a margem direita do último link para evitar espaçamento extra */
+}
+.link a {
+    display: flex;
+    justify-content: center;
+}
+.link a:hover {
+    color: gray;
+}
+/* ==================================================== */
+/* BOTÃO PARA VOLTAR AO TOPO */
+.btn_topo .topo {
+    position: absolute;
+    margin-top: 2px;
+    padding: 5px 5px 5px 5px;
+    /* background-color: black; */
+    background-color: rgb(191, 188, 188);
+}
+div .btn_topo {
+    margin-bottom: 50px;
+}
+
+i {
+    color: gray;
+    font-size: 12px;
+}
+i:hover {
+    color: black;
+}
+
+/* ==================================================== */
+/* RODAPÉ DA PÁGINA */
+.rodape {
+    background-color: #f1f1f1;
+    /* min-height: 80px; */
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px gray;
+    display: flex;
+    /* justify-content: space-between; */
+    /* margin-top: 20px; */
+    justify-content: center;
+    /* padding: 30px; */
+
+}
+.rodape_icone {
+    flex: 1;
+    margin-right: 20px;
+    margin-left: 20px;
+    justify-content: space-around;
+}
+.rodape_icone i {
+    padding: 10px;
+    display: contents;
+    /* width: 30px; */
+}
+.rodape_icone i:hover {
+    color: black;
+}
+.rodape_inter {
+    padding: 30px;
+}
+.dados_gerais {
+    background-color: rgb(191, 188, 188);
+    display: contents;
+    text-align: center;
+    font-size: 12px;
+    color: gray;
+    line-height: 30%;
+}
+/* ==================================================== */
+/* ==================================================== */

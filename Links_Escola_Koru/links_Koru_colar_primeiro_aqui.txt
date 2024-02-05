@@ -1,0 +1,639 @@
+Links Aulas Koru:
+
+Para Criar Meu Projeto do Zero:
+
+====================================================================
+
+MÓDULO:
+LÓGICA DE PROGRAMAÇÃO:
+
+AULAS GRAVADAS:
+
+Raciocínio Lógico:
+https://youtu.be/6Hhrm0auqug
+
+App Scratch:
+https://youtu.be/BFWlTCYeC08
+
+https://youtu.be/6Hhrm0auqug (Parece erro - não tem o 2)
+
+https://youtu.be/mUkByEs6siA
+
+https://youtu.be/qj5Ola1q7P8
+
+https://youtu.be/RWZmwBt6nWk
+
+feito ate aqui...
+
+App Microbit:
+https://youtu.be/Af0PMX0G5Mc
+
+https://youtu.be/Gc_W9LufeaY
+
+https://youtu.be/UZgZsGMU7a4
+
+feito 
+
+Excel:
+https://youtu.be/ZdVn4BTPI8E
+
+Introdução à Python:
+https://youtu.be/dTqz2-QpKNQ
+
+https://youtu.be/f920_X0cehk
+
+https://youtu.be/S05KY4exyoU
+
+https://youtu.be/xJQpmemXkaM
+
+https://youtu.be/vroex14OFdc
+
+Arrays e Laços de Repetição em Python:
+https://youtu.be/eblk8tp1Wx8
+
+https://youtu.be/Y4ltZnB6d8Q
+
+https://youtu.be/sG0seyrhRkE
+
+https://youtu.be/wAZZI5uV5wI
+
+https://youtu.be/VnySTDgzMcE
+
+Dicionário em Python:
+https://youtu.be/YShOlZY4PHI
+
+https://youtu.be/r2RdFRiu7L8
+
+https://youtu.be/W7nOIYUGl8I
+
+Funções em Python:
+https://youtu.be/ukEJt4YMFas
+
+https://youtu.be/JlH_sO31RQk
+
+
+AULAS AO VIVO:
+
+TUTORIA:
+- Não tiveram nesse perídodo -
+
+DEMAIS AULAS:
+- Não tiveram nesse perídodo -
+
+====================================================================
+
+MÓDULO:
+GESTÃO DE PROJETOS, PRODUTOS E SEGURANÇA DA INFORMAÇÃO - IFOOD/23 (DEV)
+
+
+AULAS GRAVADAS:
+
+Por dentro do Mundo Ágil:
+https://youtu.be/dwteh4DLFBM
+
+https://youtu.be/BRZi8OjSYU4
+
+https://youtu.be/k_MU9WB8Tzw
+
+https://youtu.be/z5q2gr5mWnM
+
+
+Cerimônias e Rotinas de Trabalho:
+https://youtu.be/uf6FPTJtuJ0
+
+https://youtu.be/pF39lqdaPmI
+
+https://youtu.be/uy3FhhPAW3I
+
+
+Novas formas de Trabalho e Colaboração remota:
+https://youtu.be/PRTXU0JnmQQ
+
+https://youtu.be/X9-PvayJrjQ
+
+https://youtu.be/E6j4BitPPQk
+
+
+AULAS AO VIVO:
+
+TUTORIA:
+https://youtu.be/uvttTMzK0E0
+
+https://youtu.be/_gb-qIsCjd8
+
+https://youtu.be/Q5qNjek1jf0
+
+DEMAIS AULAS:
+
+Metodologias Ágeis e suas aplicações
+https://youtu.be/P4UdJBp15ik
+ 
+Liderança e formação de Supertição
+https://youtu.be/71BGcgh82qc
+
+Governança de Dados
+https://youtu.be/mtsiBHdVSTo
+
+O Mundo Digital
+https://youtu.be/oXy9GOkbtBA
+
+...parei aqui
+
+====================================================================
+
+MÓDULO:
+DESENVOLVIMENTO FRONT-END - IFOOD/23
+
+AULAS GRAVADAS:
+
+Introdução ao front end:
+https://youtu.be/1xq7HCSFb94
+
+https://youtu.be/SGWasDU8cfM
+
+HTML:
+https://youtu.be/kE_MgEMxxAg
+
+https://youtu.be/ODwFvc9IJFo
+
+https://youtu.be/euuBGFQUKQ4
+
+https://youtu.be/W06ImfxyxEo
+
+CSS:
+https://youtu.be/Y-_BYPg08UY
+
+https://youtu.be/uLmgFuNJM4U
+
+https://youtu.be/lRdSnuwIOwk
+
+Layout responsivo:
+https://youtu.be/8fjdvwkzmcc
+
+https://youtu.be/YVZYVcz9e3A
+
+JavaScript:
+https://youtu.be/xuAyCn4ev08
+
+https://youtu.be/ibJVLHesRHU
+
+https://youtu.be/vDi6Y54uM84
+
+https://youtu.be/8UhMO0CPkiY
+...parei aqui
+
+Brading e Style guide:
+https://youtu.be/rjEXFZoZZ6U
+
+https://youtu.be/6-7D2HENTW0
+
+https://youtu.be/p6oNtwg9JUk
+
+https://youtu.be/5xUALDjIFN8
+
+UI e Pattern Library:
+https://youtu.be/q-PeT6AMBsE
+
+https://youtu.be/28T3Ln6FxcM
+
+https://youtu.be/OEdWV_gIkz8
+
+https://youtu.be/KYkHlrEI4GE
+
+UX e Desing System:
+https://youtu.be/noLc8mR-4a8
+
+https://youtu.be/q-OHVrbXEr8
+
+https://youtu.be/DsLE9Y-yEbc
+
+https://youtu.be/DDWEK2uNO7I
+
+Codificação de Protótipos:
+
+https://youtu.be/gg2BuEa5xyk
+
+https://youtu.be/gECvUGzlKJQ
+
+https://youtu.be/rQV4UydsmmE
+
+https://youtu.be/IYBp8pTs6KA
+
+
+AULAS AO VIVO:
+
+TUTORIA:
+https://youtu.be/AigtEspcrgs
+
+https://youtu.be/MDHYitW-cuY
+
+https://youtu.be/snPmzrdSplw
+
+https://youtu.be/Ouk27i6Q8q8
+
+https://youtu.be/2lFNE53P8c8
+
+DEMAIS AULAS:
+
+Introdução ao front end:
+rever link erro
+
+CSS:
+https://youtu.be/TbpBN1cnBpE
+
+Linkedin:
+https://youtu.be/LTsEgqWmgkE
+
+JavaScript:
+https://youtu.be/MhsZP8aEHUI
+
+Biblioteca Bootstrap:
+https://youtu.be/E-CoABDcSzQ
+
+Biblioteca React:
+https://youtu.be/AB1FPhA490E
+
+Desenvolvimento de Página Responsiva:
+https://youtu.be/mIEYBfwh7wM
+
+Comunicação Back End APIs:
+https://youtu.be/Q2QcDoaKL8w
+
+https://youtu.be/yCCfq5mdw_w
+
+parei aqui....
+
+====================================================================
+
+MÓDULO:
+DESENVOLVIMENTO BACK-END - IFOOD/23
+
+AULAS GRAVADAS:
+
+Instalação do Python e da IDE:
+https://youtu.be/qiGJLl9WhME
+
+https://youtu.be/2SU83SrbD-g
+
+https://youtu.be/tHKkgy5fTmY
+
+
+A importância das variáveis e o poder dos dicionários:
+https://youtu.be/RBIL_jUrRFo
+
+https://youtu.be/JGxnW8Zq0ys
+
+
+Pacotes Adicionais:
+https://youtu.be/HZom9au7LfA
+
+https://youtu.be/CiDf-zGJwQg
+
+
+Flask:
+https://youtu.be/sMxO4930bqc
+
+https://youtu.be/KOvk_tfwAGA
+
+https://youtu.be/3ga3P2SkGKk
+
+https://youtu.be/l_Kfuz9bvrA
+
+https://youtu.be/TIX_58VVY4U
+
+
+CRUD:
+https://youtu.be/-Vb6byF0AFE
+
+https://youtu.be/T-8R1TOslYQ
+
+https://youtu.be/r5TjXLh_kbE
+
+https://youtu.be/jc-3KgDNlWU
+
+https://youtu.be/pUdRc6hMvo8
+
+Banco de Dados Relacionais no Python:
+
+https://youtu.be/cKBGbWjc8qM
+
+https://youtu.be/Tu7vYaoZnhc
+
+https://youtu.be/ViGKYuqRfiE
+
+https://youtu.be/cfRAxGROP4I
+
+https://youtu.be/JE__QYuA044
+
+https://youtu.be/nONkBWRUhIE
+
+https://youtu.be/9Zq2Xlr0_EY
+
+
+Testes:
+https://youtu.be/EoFQ6gRFstk
+
+https://youtu.be/_ZQbpsiZkus
+
+API:
+https://youtu.be/hx4A6IHm6WM
+
+https://youtu.be/Bkr9cEXij7k
+
+https://youtu.be/t12vlWO0u-s
+
+https://youtu.be/XDMpPG0J9eU
+
+https://youtu.be/5-MeFDUu4eM
+
+https://youtu.be/7XM23-5gCbE
+
+https://youtu.be/r7SkI4F1VfY
+
+https://youtu.be/9hrOsqb0N6c
+
+https://youtu.be/4EVQh3WtiZc
+
+
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+- Não tem na Plataforma
+
+DEMAIS AULAS:
+
+Programando em Python:
+https://youtu.be/NpACDOCerHs
+
+Pensando em Web:
+https://youtu.be/OR1uKk073Oc
+
+Hora dos Templates:
+https://youtu.be/Bp_pHqnCuMU
+
+CRUD armazenando dados em arquivos:
+https://youtu.be/KONV_FjvCGA
+
+CRUD armazenando dados em Banco de Dados SQLite:
+https://youtu.be/JJlDxw8fyqQ
+
+https://youtu.be/lY63R0jvbY4
+
+O Back End vira uma API Rest:
+https://youtu.be/YSFiZP9gj3Y
+
+https://youtu.be/NXKayRePcXw
+
+
+
+====================================================================
+
+MÓDULO:
+BANCO DE DADOS - IFOOD/23
+
+AULAS GRAVADAS:
+
+Banco de Dados relacionais e não relacionais:
+https://youtu.be/H_DMx-KMbYQ
+
+https://youtu.be/Y5qWh2VdGrY
+
+https://youtu.be/Fj-UIyDugqU
+
+https://youtu.be/mp4yNM9joa4
+
+Lakehouse-Conceitos e Fundamentos:
+https://youtu.be/SxyMYvgnDDY
+
+https://youtu.be/fuPaBhJ8Nxo
+
+https://youtu.be/yQXioilTG4Y
+
+https://youtu.be/2rCpa3M_z48
+
+
+Big Data - volume de dados:
+https://youtu.be/FTubjclihNA
+
+https://youtu.be/LgutZXR1UZY
+
+https://youtu.be/Fut5qu8YLyY
+
+Introdução à Data Science:
+https://youtu.be/tb2wrkBrczM
+
+https://youtu.be/zldMgM_x73s
+
+https://youtu.be/eA_WxpycAds
+
+
+Introdução à Data Visualization:
+https://youtu.be/QjWiRAhBwXU
+
+https://youtu.be/HlaCYrDnrl8
+
+https://youtu.be/OWyCmVIAjkk
+
+Storytelling com dados:
+https://youtu.be/kEhZNjeGRds
+
+https://youtu.be/6ToYPey1C8E
+
+https://youtu.be/PqdT51_tyHA
+
+
+AULAS AO VIVO:
+
+TUTORIA:
+https://youtu.be/KM2kyhv_hjg
+
+https://youtu.be/M5AXPW0j2kw
+
+
+DEMAIS AULAS:
+
+Diferença de Banco de Dados:
+https://youtu.be/wjFXxtTtXjM
+
+Design de Banco de Dados:
+https://youtu.be/BI0P6CTrvec
+
+https://youtu.be/0CYFJ8E7pQc
+
+SQL Básico:
+-Não encontrei vídeo-
+
+SQL Básico:
+https://youtu.be/rpTBhjth8Sw
+
+SQL Avançado:
+-Não encontrei vídeo-
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
+
+
+====================================================================
+
+MÓDULO:
+
+AULAS GRAVADAS:
+
+AULAS AO VIVO:
+
+TUTORIA:
+
+DEMAIS AULAS:
+
